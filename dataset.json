@@ -1,0 +1,14 @@
+[
+  {
+    "message": "Halo",
+    "response": "Halo, ada yang bisa saya bantu?"
+  },
+  {
+    "message": "Bagaimana cara menggunakan fitur A?",
+    "response": "Untuk menggunakan fitur A, Anda perlu melakukan hal-hal berikut: ..."
+  },
+  {
+    "message": "Terima kasih",
+    "response": "Sama-sama, jangan ragu untuk bertanya lagi jika ada yang bisa saya bantu."
+  }
+]
